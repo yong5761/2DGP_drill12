@@ -6,7 +6,7 @@ class Grass2:
         self.image = load_image('grass.png')
 
     def draw(self):
-        self.image.draw(400,40)
+        self.image.draw(400,00)
 
     def update(self):
         pass
